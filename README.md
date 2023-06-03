@@ -1,1 +1,1 @@
-# encryption-and-cryptanalysis-Enigma
+# encryption, decryption and cryptanalysis of the Enigma prototype
